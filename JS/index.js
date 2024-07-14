@@ -157,7 +157,7 @@ function displayArea(data) {
                         class="slideUp text-dark bg-light bg-opacity-50 w-100 h-100  position-absolute top-0 start-0 d-flex flex-column justify-content-center align-items-center textShadow">
                         <span class="fs-4 fw-bold mt-1 mb-0"> ${data[i].strArea}</span>
                     </div>
-                    <img class="w-100" src="/image/area/${data[i].strArea}.jpg" alt="">
+                    <img class="w-100" src="./image/area/${data[i].strArea}.jpg" alt="">
                 </div>
             </div>
 
