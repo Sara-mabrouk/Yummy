@@ -193,7 +193,7 @@ function displayIngredients(data) {
                         class="slideUp text-dark bg-light bg-opacity-50 w-100 h-100  position-absolute top-0 start-0 d-flex flex-column justify-content-center align-items-center textShadow">
                         <span class="fs-4 fw-bold mt-1 mb-0"> ${data[i].strIngredient}</span>
                     </div>
-                    <img class="w-100" src="/image/ingredient/${data[i].strIngredient}.jpg" alt="">
+                    <img class="w-100" src="image/ingredient/${data[i].strIngredient}.jpg" alt="">
                 </div>
             </div>
 
